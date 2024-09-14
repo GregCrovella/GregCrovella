@@ -3,7 +3,7 @@
 ### Olá! Eu sou o Gregory✌️
 
 <!--Start Intro-->               
-<p align="left"> Estudante em Análise e Desenvolvimento de Sistemas e entusiasta pela área de programação com grande amor em Python e MySql. </p>
+<p align="left"> Estudante em Análise e Desenvolvimento de Sistemas e entusiasta pela área de programação com grande amor em Python </p>
 
 ---
 ### Meus Perfis 👨
